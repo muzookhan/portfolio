@@ -18,11 +18,12 @@ With the completion of this degree, I am looking for new roles as a Data Analyst
 
 ## **Work Experience**
 Worked with start ups in Pakistan (Bazaar, Careem) as an analyst for 3+ years. Latest roles have been:
-**Student Data Scientist @ Undisclosed Company (Jan 2024 - Apr 2024) **
+
+**Student Data Scientist @ Undisclosed Company (Jan 2024 - Apr 2024)**
 + Forecasted raw material prices using machine learning (LSTM) and statistical models (ARIMA) to help better allocate budget, navigate through future price markets and negotiate better deals - estimated  17% saving per annum
 + Hands on with preprocessing, feature engineering and modelling achieving MAPE of 0.24%
 
-**Marketplace Manager @ Bazaar Tech (Jul 2022 - Mar 2023) **
+**Marketplace Manager @ Bazaar Tech (Jul 2022 - Mar 2023)**
 +
 +
 
