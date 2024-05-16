@@ -11,7 +11,7 @@ With the completion of this degree, I am looking for new roles as a Data Analyst
 ## **Education**
 > MS Business Analytics		Purdue University	_(Aug 2024)_
 
-> BSc Computer Sciences		Lahore University of Management Science (LUMS)	_(Sep 2019)_
+> BSc Computer Sciences		Lahore University of Management Science 	_(Sep 2019)_
 
 
 
