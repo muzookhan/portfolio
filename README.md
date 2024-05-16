@@ -9,7 +9,7 @@ While dance is something I've always loved, my first experience with data scienc
 With the completion of this degree, I am looking for new roles as a Data Analyst and feel excitement for all the professional growth and opportunities ahead! :rocket:
 
 ## **Education**
-
+----------------------------------------------------------------------------------------------
 + MS Business Analytics		Purdue University	_(Aug 2024)_
 ----------------------------------------------------------------------------------------------
 + BSc Computer Sciences		Lahore University of Management Science (LUMS)	_(Sep 2019)_
@@ -17,15 +17,18 @@ With the completion of this degree, I am looking for new roles as a Data Analyst
 
 
 ## **Work Experience**
-Worked with start ups in Pakistan (Bazaar, Careem) as an analyst for 3+ years. Latest roles have been:
-
 **Student Data Scientist @ Undisclosed Company (Jan 2024 - Apr 2024)**
 + Forecasted raw material prices using machine learning (LSTM) and statistical models (ARIMA) to help better allocate budget, navigate through future price markets and negotiate better deals - estimated  17% saving per annum
 + Hands on with preprocessing, feature engineering and modelling achieving MAPE of 0.24%
 
 **Marketplace Manager @ Bazaar Tech (Jul 2022 - Mar 2023)**
-+
-+
++ Lead a team of 3 data analysts and planned quarterly and yearly goals and targets of customer activity on app for the Marketplace department 
++ Redesigned customer target setting logics through A/B Testing that helped 12% more customers achieve their monthly purchasing targets and brought in incremental revenue of 850Mn PKR over a single quarter
 
-## **Projects**
-### each project with code attached
+## **Academic Projects**
++	**Machine Learning:** Deployed machine learning models in Python such as XG-Boost and LSTM, on time-series data to forecast 28 days of Walmart’s sales across 3 categories in 3 states
++	**Web Analytics:** Scraped the web to predict future fashion trends by using Amazon and NY Times APIs to conduct sentiment analyses with tokenized AI Models and gauged popularity of clothing features
++	**Big Data on Cloud:** Automated Extract Load Transform (ETL) cloud pipeline of real-time flight data from APIs to BigQuery to conduct basic analyses and predict flight delays using archived and streamed live data sources
++	**Intro to AI:** Made Neural Networks to create an AI automated player for PacMan that can win the game
++	**Data Mining:** Built an ensemble model using Neural Networks and XG-Boost to classify customers who are likely to file for bankruptcy and achieved 96% accuracy through hyperparameter optimization
+
