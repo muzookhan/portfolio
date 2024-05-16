@@ -9,10 +9,10 @@ While dance is something I've always loved, my first experience with data scienc
 With the completion of this degree, I am looking for new roles as a Data Analyst and feel excitement for all the professional growth and opportunities ahead! :rocket:
 
 ## **Education**
-> MS. Business Analytics	|	Purdue University	(Aug 2024)
+> MS. Business Analytics	|	Purdue University	| (Aug 2024)
 
 
-> BSc. Computer Sciences	|	Lahore University of Management Science 	(Sep 2019)
+> BSc. Computer Sciences	|	Lahore University of Management Science |	(Sep 2019)
 
 
 
