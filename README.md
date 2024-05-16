@@ -6,7 +6,7 @@ I decided to do my bachelors in Computer Science because I had a knack for probl
 
 While dance is something I've always loved, my first experience with data science was in my senior year. Our Final Year Project was to forecast energy load on the grid by individual houses in Lahore. With this exposure, I applied for Data Analyst positions and currently have 3+ years of experience doing analytics with start ups. Furthermore, this past year I have been enrolled in the Masters in Business Analytics program at Purdue on the Fulbright Scholarship.
 
-With the completion of this degree, I am looking for new roles as a Data Analyst and feel excitement for all the professional growth and opportunities ahead! :rocket:
+With the completion of this degree, I am looking for new roles as a Data Analyst and feel excitement for all the professional growth and opportunities ahead!
 
 ## **Education**
 > MS. Business Analytics	|	Purdue University	| (Aug 2024)
